@@ -16,7 +16,7 @@ deploy:
   provider: elasticbeanstalk
   region: ap-northeast-2
   app: docker-react-app
-  env: DocerReactApp-env
+  env: DockerReactApp-env
   bucket_name: elasticbeanstalk-ap-northeast-2-612325809685
   bucket_path: docker-react-app
   on:
